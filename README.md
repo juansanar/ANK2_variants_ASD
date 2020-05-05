@@ -1,2 +1,2 @@
-# ANK2_variants_ASD
- ANK2 ASD associated variants exploration 
+# Exploring ANK2 variants associated with Autism Spectrum Disorder (ASD)
+ This repositoyr contains data files obtained from Varicarta and R code to generate MutPlots.
