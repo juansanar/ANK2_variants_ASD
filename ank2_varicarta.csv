@@ -1,0 +1,179 @@
+﻿Variant Event ID,Gene,Subject,Sample_ID,REF,ALT,Location,Context,Effects,HGVS,CADD_1.0_Phred,ExAC_0.3,Inheritance,Validation_Status,Validation_Method,Sources
+273414,ANK2,32666,7-0100-004,G,T,chr4:114128624-114128624,intronic,,,-,0,De novo,,null,Yuen2017
+281607,ANK2,22488,AU030703,C,T,chr4:113940862-113940862,intronic,,,-,0,De novo,,null,Yuen2017
+338945,ANK2,34907,M20603,C,C/T,chr4:114281999-114281999,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+261894,ANK2,32543,2-1635-004,C,T,chr4:113881026-113881026,intronic,,,-,0,De novo,,null,Yuen2017
+338944,ANK2,34906,M20619,G,A/G,chr4:114279630-114279630,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+338946,ANK2,34908,M04453,G,A/G,chr4:114290671-114290671,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+234780,ANK2,30828,2-0098-003,G,A,chr4:114141437-114141437,intronic,,,-,0,De novo,,null,Yuen2017
+179753,ANK2,1345,12493.p1,C,A,chr4:113969352-113969352,intronic,,,-,0,De novo,,not attempted,Turner2016
+339772,ANK2,35399,HN0138.p1,C,C/T,chr4:114294267-114294267,exonic,,,-,0,Paternal,Yes,Sanger sequencing,Guo2018
+303678,ANK2,33005,AU3451301,CCTCTCTCTCTCTCTCTCT,CCTCTCTCTCTCTCTCTCTCT,chr4:114339840-114339858,intergenic,,,-,0,De novo,,null,Yuen2017
+339771,ANK2,35398,SD0060.p1,C,C/T,chr4:114294267-114294267,exonic,,,-,0,Paternal,Yes,Sanger sequencing,Guo2018
+339770,ANK2,35354,HEN0250.p1,A,A/C,chr4:114280233-114280233,exonic,,,-,0,Paternal,Yes,Sanger sequencing,Guo2018
+339266,ANK2,35087,M03133,T,C/T,chr4:114276880-114276880,exonic,,,-,0,Unknown,Yes,Sanger sequencing,Guo2018
+236109,ANK2,32331,2-0143-004,C,G,chr4:113826805-113826805,intronic,,,-,0,De novo,,null,Yuen2017
+310357,ANK2,33083,AU3846302,G,C,chr4:113829923-113829923,intronic,,,-,0,De novo,,null,Yuen2017
+239705,ANK2,32365,2-0278-003,C,T,chr4:113952505-113952505,intronic,,,-,0,De novo,,null,Yuen2017
+339290,ANK2,35102,GX0358.p1,A,A/G,chr4:114277417-114277417,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+209517,ANK2,32081,1-0296-004,T,G,chr4:113903728-113903728,intronic,,,-,0,De novo,,null,Yuen2017
+281212,ANK2,32754,AU027506,C,A,chr4:114061889-114061889,intronic,,,-,0,De novo,,null,Yuen2017
+293511,ANK2,32884,AU1933301,T,G,chr4:114346600-114346600,intergenic,,,-,0,De novo,,null,Yuen2017
+293512,ANK2,32884,AU1933301,T,C,chr4:114346606-114346606,intergenic,,,-,0,De novo,,null,Yuen2017
+154516,ANK2,22352,212-21046-1,G,A,chr4:114302686-114302686,UTR3,,,37,2.68E-05,De novo,Yes,PCR,Stessman2017
+272792,ANK2,32659,7-0078-003,G,A,chr4:114305856-114305856,downstream,,,-,0,De novo,,null,Yuen2017
+286380,ANK2,11373,AU059903,CCCTCCTCCTCCTCCT,CCCTCCTCCTCCT,chr4:113970780-113970795,UTR5,,,-,0,De novo,,null,Yuen2017
+3756,ANK2,1818,13882.p1,G,A,chr4:114203820-114203820,intronic,,,-,1.59E-05,De novo;De novo,,null;variant source reported as validated,Iossifov2014;Kosmicki2017
+339120,ANK2,29266,M26951,G,A/G,chr4:114290671-114290671,exonic,,,-,0,Paternal,Yes,Sanger sequencing,Guo2018
+246204,ANK2,32416,2-1183-003,CCTTCTTC,CCTTC,chr4:114362634-114362641,intergenic,,,-,0,De novo,,null,Yuen2017
+220608,ANK2,32180,1-0546-003,TT,TTTGT,chr4:113915000-113915001,intronic,,,-,0,De novo,,null,Yuen2017
+221376,ANK2,32187,1-0555-003,A,G,chr4:114154443-114154443,intronic,,,-,0,De novo,,null,Yuen2017
+292557,ANK2,32872,AU1725306,A,G,chr4:114162981-114162981,intronic,,,-,0,De novo,,null,Yuen2017
+308692,ANK2,33062,AU3779304,T,G,chr4:113924922-113924922,intronic,,,-,0,De novo,,null,Yuen2017
+200667,ANK2,31994,1-0126-004,T,A,chr4:114014319-114014319,intronic,,,-,0,De novo,,null,Yuen2017
+339677,ANK2,35322,HN0148.p1,G,A/G,chr4:114276654-114276654,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+339676,ANK2,35316,SX0011.p1,G,A/G,chr4:114275847-114275847,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+339678,ANK2,35323,HEN0306.p1,T,C/T,chr4:114276880-114276880,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+339675,ANK2,35321,HEN0207.p1,C,C/T,chr4:114275524-114275524,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+339681,ANK2,34894,HN0139.p1,C,C/T,chr4:114290873-114290873,exonic,,,-,0,Maternal,Yes,Sanger sequencing,Guo2018
+201455,ANK2,32002,1-0144-005,C,T,chr4:113917511-113917511,intronic,,,-,0,De novo,,null,Yuen2017
+208879,ANK2,13604,1-0286-004,A,G,chr4:114045816-114045816,intronic,,,-,0,De novo,,null,Yuen2017
+227832,ANK2,32255,1-0751-003,T,C,chr4:113843429-113843429,intronic,,,-,0,De novo,,null,Yuen2017
+338694,ANK2,34695,M32110,C,T,chr4:114251508-114251508,exonic,stopgain,NM_001148:exon27::c.C3007T:p.R1003X;NM_020977:exon27::c.C3007T:p.R1003X;NM_001127493:exon29::c.C2980T:p.R994X,39,0,De novo,Yes,Sanger sequencing,Guo2018
+1109,ANK2,523,DEASD_0140_001,C,T,chr4:114254247-114254247,exonic,stopgain,NM_001148:exon29::c.C3262T:p.R1088X;NM_020977:exon29::c.C3262T:p.R1088X;NM_001127493:exon31::c.C3235T:p.R1079X,43,0,De novo;De novo;De novo;De novo,,"null;variant source reported as validated;Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing;variant source reported as validated",DeRubeis2014;Kosmicki2017;Lim2017;Satterstrom2018
+2732,ANK2,1377,12645.p1,C,T,chr4:114232545-114232545,exonic,stopgain,NM_001148:exon24::c.C2683T:p.R895X;NM_020977:exon24::c.C2683T:p.R895X;NM_001127493:exon25::c.C2620T:p.R874X,42,0,De novo;De novo;De novo;De novo;De novo;De novo;De novo,Yes;Yes;Yes;Yes,PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE);null;null;variant source reported as validated;smMIP;variant source reported as validated;null,Iossifov2012;Iossifov2014;Ji2016;Kosmicki2017;Krupp2017;Satterstrom2018;Willsey2013
+3757,ANK2,2138,14256.p1,C,T,chr4:114251469-114251469,exonic,stopgain,NM_001148:exon27::c.C2968T:p.R990X;NM_020977:exon27::c.C2968T:p.R990X;NM_001127493:exon29::c.C2941T:p.R981X,41,0,De novo;De novo;De novo;De novo;De novo;De novo;De novo,Yes;Yes;Yes,"null;null;variant source reported as validated;smMIP;Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing;variant source reported as validated;null",Iossifov2014;Ji2016;Kosmicki2017;Krupp2017;Lim2017;Satterstrom2018;Willsey2013
+154109,ANK2,22073,Uddin2014:40,C,T,chr4:114232545-114232545,exonic,stopgain,NM_001148:exon24::c.C2683T:p.R895X;NM_020977:exon24::c.C2683T:p.R895X;NM_001127493:exon25::c.C2620T:p.R874X,42,0,De novo,,null,Uddin2014
+175407,ANK2,29165,M08719,CT,C,chr4:114278569-114278570,exonic,frameshift deletion,ANK2:NM_001148:exon38:c.8796delT:p.P2932fs,-,0,Unknown,Yes,Sanger sequencing,Guo2018
+175407,ANK2,29165,M08719,CT,T,chr4:114278569-114278570,exonic,frameshift deletion,ANK2:NM_001148:exon38:c.8795delC:p.P2932fs,-,0,Unknown,,,Wang2016
+3759,ANK2,2140,13768.p1,AG,A,chr4:114277599-114277600,exonic,frameshift deletion,NM_001148:exon38::c.7826delG:p.R2609fs,-,0,De novo;De novo;De novo;De novo,,null;null;variant source reported as validated;variant source reported as validated,Iossifov2014;Ji2016;Kosmicki2017;Satterstrom2018
+155122,ANK2,22882,219-2341-1,T,C,chr4:114294331-114294331,splicing,splicing,,21,8.24E-06,Paternal,Yes,Sanger,Stessman2017
+154881,ANK2,22688,Stessman2017:ASD_1055,C,T,chr4:114195633-114195633,exonic,nonsynonymous SNV,NM_001148:exon15::c.C1511T:p.A504V;NM_020977:exon15::c.C1511T:p.A504V;NM_001127493:exon16::c.C1448T:p.A483V,26.2,0,Unknown,No,null,Stessman2017
+154642,ANK2,22470,09C95600,C,T,chr4:114177072-114177072,exonic,nonsynonymous SNV,NM_001148:exon11::c.C1172T:p.P391L;NM_020977:exon11::c.C1172T:p.P391L;NM_001127493:exon12::c.C1109T:p.P370L,22.4,8.27E-06,Unknown,No,null,Stessman2017
+339477,ANK2,34713,GX0159.p1,C,G,chr4:114203993-114203993,exonic,nonsynonymous SNV,NM_001148:exon18::c.C2044G:p.L682V;NM_020977:exon18::c.C2044G:p.L682V;NM_001127493:exon19::c.C1981G:p.L661V,16.01,2.48E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339476,ANK2,35140,GX0094.p1,C,A,chr4:114203951-114203951,exonic,nonsynonymous SNV,NM_001148:exon18::c.C2002A:p.L668M;NM_020977:exon18::c.C2002A:p.L668M;NM_001127493:exon19::c.C1939A:p.L647M,16.3,0,Paternal,Yes,Sanger sequencing,Guo2018
+146192,ANK2,15220,Li2017:16263,G,T,chr4:114278947-114278947,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9173T:p.R3058L,20.9,0,Unknown,,Sanger sequencing,Li2017
+339479,ANK2,35230,GX0068.p1,G,A,chr4:114274923-114274923,exonic,nonsynonymous SNV,NM_001148:exon38::c.G5149A:p.E1717K,14.12,0,Paternal,Yes,Sanger sequencing,Guo2018
+339478,ANK2,34821,M30585,T,A,chr4:114204012-114204012,exonic,nonsynonymous SNV,NM_001148:exon18::c.T2063A:p.I688N;NM_020977:exon18::c.T2063A:p.I688N;NM_001127493:exon19::c.T2000A:p.I667N,19.53,1.65E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339475,ANK2,34700,GX0493.p1,G,A,chr4:114195749-114195749,exonic,nonsynonymous SNV,NM_001148:exon15::c.G1627A:p.V543M;NM_020977:exon15::c.G1627A:p.V543M;NM_001127493:exon16::c.G1564A:p.V522M,12.93,2.47E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339474,ANK2,35229,HN0104.p1,C,T,chr4:114120255-114120255,exonic,nonsynonymous SNV,NM_001148:exon4::c.C374T:p.A125V;NM_020977:exon4::c.C374T:p.A125V;NM_001127493:exon5::c.C311T:p.A104V,16.09,0,Paternal,Yes,Sanger sequencing,Guo2018
+339485,ANK2,35234,GX0481.p1,A,G,chr4:114278367-114278367,exonic,nonsynonymous SNV,NM_001148:exon38::c.A8593G:p.I2865V,8.524,0,Paternal,Yes,Sanger sequencing,Guo2018
+339484,ANK2,34800,HN0105.p1,G,A,chr4:114277747-114277747,exonic,nonsynonymous SNV,NM_001148:exon38::c.G7973A:p.R2658K,12.3,0,Paternal,Yes,Sanger sequencing,Guo2018
+339487,ANK2,35236,GX0315.p1,A,G,chr4:114279462-114279462,exonic,nonsynonymous SNV,NM_001148:exon38::c.A9688G:p.T3230A,0.003,2.48E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339486,ANK2,35235,GX0221.p1,A,G,chr4:114279462-114279462,exonic,nonsynonymous SNV,NM_001148:exon38::c.A9688G:p.T3230A,0.003,2.48E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339481,ANK2,35231,M32007,A,G,chr4:114275991-114275991,exonic,nonsynonymous SNV,NM_001148:exon38::c.A6217G:p.I2073V,-,3.30E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339480,ANK2,35209,GX0013.p1,G,C,chr4:114274977-114274977,exonic,nonsynonymous SNV,NM_001148:exon38::c.G5203C:p.E1735Q,20.9,0,Paternal,Yes,Sanger sequencing,Guo2018
+339483,ANK2,35233,GX0044.p1,C,G,chr4:114276512-114276512,exonic,nonsynonymous SNV,NM_001148:exon38::c.C6738G:p.S2246R,16.87,0,Paternal,Yes,Sanger sequencing,Guo2018
+339482,ANK2,35232,GX0227.p1,G,A,chr4:114276360-114276360,exonic,nonsynonymous SNV,NM_001148:exon38::c.G6586A:p.G2196S,7.339,5.78E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339489,ANK2,35109,HN0095.p1,G,A,chr4:114288808-114288808,exonic,nonsynonymous SNV,NM_020977:exon41::c.G4864A:p.D1622N;NM_001148:exon42::c.G11119A:p.D3707N;NM_001127493:exon43::c.G4837A:p.D1613N,14.64,3.00E-04,Paternal,Yes,Sanger sequencing,Guo2018
+339488,ANK2,35127,M30916,C,T,chr4:114281999-114281999,exonic,nonsynonymous SNV,NM_020977:exon38::c.C4447T:p.R1483W;NM_001148:exon39::c.C10702T:p.R3568W;NM_001127493:exon40::c.C4420T:p.R1474W,19.9,2.00E-04,Paternal,Yes,Sanger sequencing,Guo2018
+339491,ANK2,34842,GX0279.p1,C,T,chr4:114294462-114294462,exonic,nonsynonymous SNV,NM_020977:exon44::c.C5461T:p.R1821W;NM_001148:exon45::c.C11716T:p.R3906W;NM_001127493:exon46::c.C5434T:p.R1812W,20.9,0.0011,Paternal,Yes,Sanger sequencing,Guo2018
+339490,ANK2,34796,M30337,C,T,chr4:114290759-114290759,exonic,nonsynonymous SNV,NM_020977:exon42::c.C5153T:p.T1718I;NM_001148:exon43::c.C11408T:p.T3803I;NM_001127493:exon44::c.C5126T:p.T1709I,11.71,0,Paternal,Yes,Sanger sequencing,Guo2018
+339765,ANK2,35394,SX0002.p1,T,G,chr4:114274622-114274622,exonic,nonsynonymous SNV,NM_001148:exon38::c.T4848G:p.C1616W,11.95,0,Paternal,Yes,Sanger sequencing,Guo2018
+339764,ANK2,35393,HEN0095.p1,G,T,chr4:114274362-114274362,exonic,nonsynonymous SNV,NM_001148:exon38::c.G4588T:p.G1530C,16.92,0,Paternal,Yes,Sanger sequencing,Guo2018
+126771,ANK2,12517,MT_151,G,A,chr4:114294463-114294463,exonic,nonsynonymous SNV,NM_020977:exon44::c.G5462A:p.R1821Q;NM_001148:exon45::c.G11717A:p.R3906Q;NM_001127493:exon46::c.G5435A:p.R1812Q,24.5,2.47E-05,Maternal,,null,Toma2013
+339767,ANK2,35396,HEN0078.p1,G,A,chr4:114275283-114275283,exonic,nonsynonymous SNV,NM_001148:exon38::c.G5509A:p.A1837T,1.279,2.00E-04,Paternal,Yes,Sanger sequencing,Guo2018
+339766,ANK2,35395,JS0053.p1,C,G,chr4:114275205-114275205,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5431G:p.P1811A,9.661,2.47E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339763,ANK2,35392,HEN0096.p1,C,G,chr4:114257004-114257004,exonic,nonsynonymous SNV,NM_001148:exon30::c.C3382G:p.L1128V;NM_020977:exon30::c.C3382G:p.L1128V;NM_001127493:exon32::c.C3355G:p.L1119V,11.56,0,Paternal,Yes,Sanger sequencing,Guo2018
+146234,ANK2,15249,Li2017:17593,G,A,chr4:114277773-114277773,exonic,nonsynonymous SNV,NM_001148:exon38::c.G7999A:p.E2667K,29.4,0,Unknown,,Sanger sequencing,Li2017
+339769,ANK2,35397,SD0021.p1,A,G,chr4:114279294-114279294,exonic,nonsynonymous SNV,NM_001148:exon38::c.A9520G:p.T3174A,0.338,8.26E-06,Paternal,Yes,Sanger sequencing,Guo2018
+339768,ANK2,35370,GX0545.p1,C,T,chr4:114275362-114275362,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5588T:p.T1863M,2.296,2.47E-05,Paternal,Yes,Sanger sequencing,Guo2018
+154944,ANK2,10881,M19628,C,T,chr4:114280419-114280419,exonic,nonsynonymous SNV,NM_001148:exon38::c.C10645T:p.R3549C,19.75,0,Paternal;Unknown,Yes;No,Sanger sequencing;null,Guo2018;Stessman2017
+339279,ANK2,35094,GX0100.p1,G,A,chr4:114177063-114177063,exonic,nonsynonymous SNV,NM_001148:exon11::c.G1163A:p.R388K;NM_020977:exon11::c.G1163A:p.R388K;NM_001127493:exon12::c.G1100A:p.R367K,8.495,8.26E-06,Maternal,Yes,Sanger sequencing,Guo2018
+339278,ANK2,34841,M32047,G,A,chr4:114163351-114163351,exonic,nonsynonymous SNV,NM_001148:exon9::c.G877A:p.D293N;NM_020977:exon9::c.G877A:p.D293N;NM_001127493:exon10::c.G814A:p.D272N,24.4,1.00E-04,Maternal,Yes,Sanger sequencing,Guo2018
+154956,ANK2,10885,M21462,C,A,chr4:114294268-114294268,exonic,nonsynonymous SNV,NM_020977:exon43::c.C5378A:p.P1793H;NM_001148:exon44::c.C11633A:p.P3878H;NM_001127493:exon45::c.C5351A:p.P1784H,19.25,0,Paternal;Unknown,Yes;No,Sanger sequencing;null,Guo2018;Stessman2017
+339285,ANK2,35098,HN0025.p1,G,T,chr4:114274551-114274551,exonic,nonsynonymous SNV,NM_001148:exon38::c.G4777T:p.V1593F,12.18,2.48E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339284,ANK2,35097,GX0080.p1,A,T,chr4:114260477-114260477,exonic,nonsynonymous SNV,NM_001148:exon32::c.A3892T:p.R1298W;NM_020977:exon32::c.A3892T:p.R1298W;NM_001127493:exon34::c.A3865T:p.R1289W,29.2,0,Maternal,Yes,Sanger sequencing,Guo2018
+339287,ANK2,35100,M30324,C,T,chr4:114275790-114275790,exonic,nonsynonymous SNV,NM_001148:exon38::c.C6016T:p.H2006Y,15.96,0,Maternal,Yes,Sanger sequencing,Guo2018
+339286,ANK2,35099,HN0120.p1,C,G,chr4:114275205-114275205,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5431G:p.P1811A,9.661,2.47E-05,Maternal,Yes,Sanger sequencing,Guo2018
+1108,ANK2,522,UK10K_SKUSE5080174,C,G,chr4:114214640-114214640,exonic,nonsynonymous SNV,NM_001148:exon22::c.C2421G:p.I807M;NM_020977:exon22::c.C2421G:p.I807M;NM_001127493:exon23::c.C2358G:p.I786M,19.3,0,De novo;De novo;De novo;De novo,,"null;variant source reported as validated;Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing;variant source reported as validated",DeRubeis2014;Kosmicki2017;Lim2017;Satterstrom2018
+146518,ANK2,15435,Li2017:23720,G,C,chr4:114275103-114275103,exonic,nonsynonymous SNV,NM_001148:exon38::c.G5329C:p.V1777L,24.8,0,De novo,Yes,Sanger sequencing,Li2017
+339281,ANK2,34808,M30343,T,A,chr4:114204012-114204012,exonic,nonsynonymous SNV,NM_001148:exon18::c.T2063A:p.I688N;NM_020977:exon18::c.T2063A:p.I688N;NM_001127493:exon19::c.T2000A:p.I667N,19.53,1.65E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339280,ANK2,35095,HN0059.p1,C,G,chr4:114203993-114203993,exonic,nonsynonymous SNV,NM_001148:exon18::c.C2044G:p.L682V;NM_020977:exon18::c.C2044G:p.L682V;NM_001127493:exon19::c.C1981G:p.L661V,16.01,2.48E-05,Maternal,Yes,Sanger sequencing,Guo2018
+1110,ANK2,524,10C105731,C,G,chr4:114264189-114264189,exonic,nonsynonymous SNV,NM_001148:exon34::c.C4139G:p.P1380R;NM_020977:exon34::c.C4139G:p.P1380R;NM_001127493:exon36::c.C4112G:p.P1371R,24.7,0,De novo;De novo;De novo,,null;variant source reported as validated;variant source reported as validated,DeRubeis2014;Kosmicki2017;Satterstrom2018
+339283,ANK2,35096,GX0085.p1,A,G,chr4:114209578-114209578,exonic,nonsynonymous SNV,NM_001148:exon20::c.A2213G:p.Y738C;NM_020977:exon20::c.A2213G:p.Y738C;NM_001127493:exon21::c.A2150G:p.Y717C,21.4,0,Maternal,Yes,Sanger sequencing,Guo2018
+339282,ANK2,34814,GX0313.p1,C,A,chr4:114208825-114208825,exonic,nonsynonymous SNV,NM_001148:exon19::c.C2144A:p.T715N;NM_020977:exon19::c.C2144A:p.T715N;NM_001127493:exon20::c.C2081A:p.T694N,10.26,2.49E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339293,ANK2,35104,GX0107.p1,G,A,chr4:114279330-114279330,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9556A:p.V3186M,11.56,8.26E-06,Maternal,Yes,Sanger sequencing,Guo2018
+154715,ANK2,22529,AU1272301,C,T,chr4:114275580-114275580,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5806T:p.R1936C,17.39,1.65E-05,Unknown,No,null,Stessman2017
+339292,ANK2,35103,HN0071.p1,G,A,chr4:114278984-114278984,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9210A:p.M3070I,13.16,8.26E-06,Maternal,Yes,Sanger sequencing,Guo2018
+339295,ANK2,35106,GX0200.p1,A,G,chr4:114280401-114280401,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10627G:p.I3543V,6.48,2.48E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339294,ANK2,35105,GX0208.p1,A,G,chr4:114280401-114280401,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10627G:p.I3543V,6.48,2.48E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339289,ANK2,35101,GX0001.p1,A,G,chr4:114276064-114276064,exonic,nonsynonymous SNV,NM_001148:exon38::c.A6290G:p.Q2097R,0.079,0,Maternal,Yes,Sanger sequencing,Guo2018
+328024,ANK2,33674,SSC11111,C,T,chr4:114275304-114275304,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5530T:p.P1844S,14.11,0,De novo,,"Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing",Lim2017
+339288,ANK2,34748,GX0507.p1,C,T,chr4:114275956-114275956,exonic,nonsynonymous SNV,NM_001148:exon38::c.C6182T:p.T2061I,0.808,0,Maternal,Yes,Sanger sequencing,Guo2018
+339291,ANK2,35099,HN0120.p1,A,G,chr4:114278236-114278236,exonic,nonsynonymous SNV,NM_001148:exon38::c.A8462G:p.D2821G,12.22,0,Maternal,Yes,Sanger sequencing,Guo2018
+339297,ANK2,35107,M30946,C,T,chr4:114294462-114294462,exonic,nonsynonymous SNV,NM_020977:exon44::c.C5461T:p.R1821W;NM_001148:exon45::c.C11716T:p.R3906W;NM_001127493:exon46::c.C5434T:p.R1812W,20.9,0.0011,Maternal,Yes,Sanger sequencing,Guo2018
+339296,ANK2,34807,GX0029.p1,G,A,chr4:114282005-114282005,exonic,nonsynonymous SNV,NM_020977:exon38::c.G4453A:p.E1485K;NM_001148:exon39::c.G10708A:p.E3570K;NM_001127493:exon40::c.G4426A:p.E1476K,27.4,7.93E-05,Maternal,Yes,Sanger sequencing,Guo2018
+338787,ANK2,34784,M26960,G,A,chr4:114294285-114294285,exonic,nonsynonymous SNV,NM_020977:exon43::c.G5395A:p.E1799K;NM_001148:exon44::c.G11650A:p.E3884K;NM_001127493:exon45::c.G5368A:p.E1790K,32,8.24E-06,Maternal,Yes,Sanger sequencing,Guo2018
+338800,ANK2,34793,M08113,G,A,chr4:114251470-114251470,exonic,nonsynonymous SNV,NM_001148:exon27::c.G2969A:p.R990Q;NM_020977:exon27::c.G2969A:p.R990Q;NM_001127493:exon29::c.G2942A:p.R981Q,36,2.48E-05,Unknown,Yes,Sanger sequencing,Guo2018
+339839,ANK2,35444,M01673,C,T,chr4:114281999-114281999,exonic,nonsynonymous SNV,NM_020977:exon38::c.C4447T:p.R1483W;NM_001148:exon39::c.C10702T:p.R3568W;NM_001127493:exon40::c.C4420T:p.R1474W,19.9,2.00E-04,De novo,Yes,Sanger sequencing,Guo2018
+338821,ANK2,34811,GX0007.p1,G,A,chr4:114294285-114294285,exonic,nonsynonymous SNV,NM_020977:exon43::c.G5395A:p.E1799K;NM_001148:exon44::c.G11650A:p.E3884K;NM_001127493:exon45::c.G5368A:p.E1790K,32,8.24E-06,Maternal,Yes,Sanger sequencing,Guo2018
+338820,ANK2,29132,GX0440.p1,C,G,chr4:114177003-114177003,exonic,nonsynonymous SNV,NM_001148:exon11::c.C1103G:p.A368G;NM_020977:exon11::c.C1103G:p.A368G;NM_001127493:exon12::c.C1040G:p.A347G,33,0,Maternal,Yes,Sanger sequencing,Guo2018
+339086,ANK2,11300,M23720,G,C,chr4:114275103-114275103,exonic,nonsynonymous SNV,NM_001148:exon38::c.G5329C:p.V1777L,24.8,0,Unknown,Yes,Sanger sequencing,Guo2018
+175500,ANK2,29249,M13357,G,A,chr4:114251431-114251431,exonic,nonsynonymous SNV,NM_001148:exon27::c.G2930A:p.R977Q;NM_020977:exon27::c.G2930A:p.R977Q;NM_001127493:exon29::c.G2903A:p.R968Q,36,8.35E-06,Maternal;Maternal,Yes,Sanger sequencing;null,Guo2018;Wang2016
+339093,ANK2,35002,M08650,G,T,chr4:114213604-114213604,exonic,nonsynonymous SNV,NM_001148:exon21::c.G2310T:p.Q770H;NM_020977:exon21::c.G2310T:p.Q770H;NM_001127493:exon22::c.G2247T:p.Q749H,20.1,0,Paternal,Yes,Sanger sequencing,Guo2018
+339092,ANK2,35001,M15245,A,G,chr4:114209599-114209599,exonic,nonsynonymous SNV,NM_001148:exon20::c.A2234G:p.N745S;NM_020977:exon20::c.A2234G:p.N745S;NM_001127493:exon21::c.A2171G:p.N724S,19.24,0,Paternal,Yes,Sanger sequencing,Guo2018
+339095,ANK2,34996,M03773,A,C,chr4:114275139-114275139,exonic,nonsynonymous SNV,NM_001148:exon38::c.A5365C:p.I1789L,9.953,8.25E-06,Paternal,Yes,Sanger sequencing,Guo2018
+339094,ANK2,29168,M01853,T,C,chr4:114262930-114262930,exonic,nonsynonymous SNV,NM_001148:exon33::c.T3980C:p.M1327T;NM_020977:exon33::c.T3980C:p.M1327T;NM_001127493:exon35::c.T3953C:p.M1318T,23,1.65E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339091,ANK2,35000,M02753,C,G,chr4:114209556-114209556,exonic,nonsynonymous SNV,NM_001148:exon20::c.C2191G:p.P731A;NM_020977:exon20::c.C2191G:p.P731A;NM_001127493:exon21::c.C2128G:p.P710A,20.6,0,Paternal,Yes,Sanger sequencing,Guo2018
+339090,ANK2,34999,M01803,C,G,chr4:114176906-114176906,exonic,nonsynonymous SNV,NM_001148:exon11::c.C1006G:p.L336V;NM_020977:exon11::c.C1006G:p.L336V;NM_001127493:exon12::c.C943G:p.L315V,18.46,0,Paternal,Yes,Sanger sequencing,Guo2018
+339101,ANK2,35007,M08778,C,T,chr4:114277170-114277170,exonic,nonsynonymous SNV,NM_001148:exon38::c.C7396T:p.R2466C,14.92,4.95E-05,Paternal,Yes,Sanger sequencing,Guo2018
+146331,ANK2,15314,Li2017:19628,C,T,chr4:114280419-114280419,exonic,nonsynonymous SNV,NM_001148:exon38::c.C10645T:p.R3549C,19.75,0,Unknown,,Sanger sequencing,Li2017
+339100,ANK2,35006,M23837,C,A,chr4:114277028-114277028,exonic,nonsynonymous SNV,NM_001148:exon38::c.C7254A:p.S2418R,15.12,0,Paternal,Yes,Sanger sequencing,Guo2018
+339103,ANK2,34997,M17593,G,A,chr4:114277773-114277773,exonic,nonsynonymous SNV,NM_001148:exon38::c.G7999A:p.E2667K,29.4,0,Paternal,Yes,Sanger sequencing,Guo2018
+339102,ANK2,35008,M11406,C,T,chr4:114277380-114277380,exonic,nonsynonymous SNV,NM_001148:exon38::c.C7606T:p.L2536F,19.26,0,Paternal,Yes,Sanger sequencing,Guo2018
+339097,ANK2,34958,M08473,A,G,chr4:114275922-114275922,exonic,nonsynonymous SNV,NM_001148:exon38::c.A6148G:p.I2050V,1.566,0,Paternal,Yes,Sanger sequencing,Guo2018
+339096,ANK2,35003,M27835,C,G,chr4:114275300-114275300,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5526G:p.H1842Q,9.151,0,Paternal,Yes,Sanger sequencing,Guo2018
+175516,ANK2,29262,M19795,G,A,chr4:114294285-114294285,exonic,nonsynonymous SNV,NM_020977:exon43::c.G5395A:p.E1799K;NM_001148:exon44::c.G11650A:p.E3884K;NM_001127493:exon45::c.G5368A:p.E1790K,32,8.24E-06,Unknown;Unknown,Yes,Sanger sequencing;null,Guo2018;Wang2016
+339099,ANK2,35005,M16266,G,T,chr4:114276978-114276978,exonic,nonsynonymous SNV,NM_001148:exon38::c.G7204T:p.V2402F,11.68,0,Paternal,Yes,Sanger sequencing,Guo2018
+339098,ANK2,35004,M08476,G,C,chr4:114276835-114276835,exonic,nonsynonymous SNV,NM_001148:exon38::c.G7061C:p.R2354P,0.077,8.25E-06,Paternal,Yes,Sanger sequencing,Guo2018
+339109,ANK2,35010,M23733,C,A,chr4:114278842-114278842,exonic,nonsynonymous SNV,NM_001148:exon38::c.C9068A:p.T3023K,14.27,0,Paternal,Yes,Sanger sequencing,Guo2018
+339108,ANK2,35009,M20576,A,G,chr4:114278416-114278416,exonic,nonsynonymous SNV,NM_001148:exon38::c.A8642G:p.E2881G,10.21,0,Paternal,Yes,Sanger sequencing,Guo2018
+339111,ANK2,29467,M13398,T,C,chr4:114278973-114278973,exonic,nonsynonymous SNV,NM_001148:exon38::c.T9199C:p.F3067L,16.88,8.26E-06,Paternal,Yes,Sanger sequencing,Guo2018
+339110,ANK2,35011,M17409,T,C,chr4:114278904-114278904,exonic,nonsynonymous SNV,NM_001148:exon38::c.T9130C:p.S3044P,11.53,0,Paternal,Yes,Sanger sequencing,Guo2018
+176038,ANK2,29624,M23694,G,A,chr4:114294318-114294318,exonic,nonsynonymous SNV,NM_020977:exon43::c.G5428A:p.V1810M;NM_001148:exon44::c.G11683A:p.V3895M;NM_001127493:exon45::c.G5401A:p.V1801M,27.7,3.00E-04,Paternal,,null,Wang2016
+339105,ANK2,34950,M23206,A,G,chr4:114277869-114277869,exonic,nonsynonymous SNV,NM_001148:exon38::c.A8095G:p.M2699V,6.853,0,Paternal,Yes,Sanger sequencing,Guo2018
+339104,ANK2,29302,M10060,C,G,chr4:114277868-114277868,exonic,nonsynonymous SNV,NM_001148:exon38::c.C8094G:p.S2698R,15.54,8.25E-06,Paternal,Yes,Sanger sequencing,Guo2018
+339107,ANK2,22732,M19574,G,A,chr4:114278202-114278202,exonic,nonsynonymous SNV,NM_001148:exon38::c.G8428A:p.E2810K,12.49,0,Paternal,Yes,Sanger sequencing,Guo2018
+339106,ANK2,29394,M21714,C,T,chr4:114278128-114278128,exonic,nonsynonymous SNV,NM_001148:exon38::c.C8354T:p.S2785L,1.909,0.0019,Paternal,Yes,Sanger sequencing,Guo2018
+339117,ANK2,35014,M16082,G,A,chr4:114286206-114286206,exonic,nonsynonymous SNV,NM_020977:exon40::c.G4645A:p.V1549I;NM_001148:exon41::c.G10900A:p.V3634I;NM_001127493:exon42::c.G4618A:p.V1540I,5.297,3.30E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339116,ANK2,10882,M20250,A,G,chr4:114280401-114280401,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10627G:p.I3543V,6.48,2.48E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339119,ANK2,29214,M27874,C,A,chr4:114288983-114288983,exonic,nonsynonymous SNV,NM_020977:exon41::c.C5039A:p.S1680Y;NM_001148:exon42::c.C11294A:p.S3765Y;NM_001127493:exon43::c.C5012A:p.S1671Y,13.72,0,Paternal,Yes,Sanger sequencing,Guo2018
+339118,ANK2,29392,M15147,G,T,chr4:114288904-114288904,exonic,nonsynonymous SNV,NM_020977:exon41::c.G4960T:p.A1654S;NM_001148:exon42::c.G11215T:p.A3739S;NM_001127493:exon43::c.G4933T:p.A1645S,8.637,0,Paternal,Yes,Sanger sequencing,Guo2018
+331689,ANK2,34533,PN400256,C,T,chr4:114294462-114294462,exonic,nonsynonymous SNV,NM_020977:exon44::c.C5461T:p.R1821W;NM_001148:exon45::c.C11716T:p.R3906W;NM_001127493:exon46::c.C5434T:p.R1812W,20.9,0.0011,Unknown,,null,Leblond2019
+339113,ANK2,35012,M01513,G,A,chr4:114279583-114279583,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9809A:p.G3270D,0.001,0,Paternal,Yes,Sanger sequencing,Guo2018
+155055,ANK2,10319,217-14002-100,G,A,chr4:114161689-114161689,exonic,nonsynonymous SNV,NM_001148:exon8::c.G742A:p.V248M;NM_020977:exon8::c.G742A:p.V248M;NM_001127493:exon9::c.G679A:p.V227M,29.6,1.65E-05,Unknown,No,null,Stessman2017
+339112,ANK2,34995,M18482,C,G,chr4:114279201-114279201,exonic,nonsynonymous SNV,NM_001148:exon38::c.C9427G:p.L3143V,0.001,1.66E-05,Paternal,Yes,Sanger sequencing,Guo2018
+3758,ANK2,2139,14130.p1,C,T,chr4:114275304-114275304,exonic,nonsynonymous SNV,NM_001148:exon38::c.C5530T:p.P1844S,14.11,0,De novo;De novo;De novo;De novo,,null;null;variant source reported as validated;variant source reported as validated,Iossifov2014;Ji2016;Kosmicki2017;Satterstrom2018
+339115,ANK2,35013,M12501,A,C,chr4:114279979-114279979,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10205C:p.K3402T,4.84,1.65E-05,Paternal,Yes,Sanger sequencing,Guo2018
+339114,ANK2,11872,M16165,G,A,chr4:114279630-114279630,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9856A:p.E3286K,25.6,1.65E-05,Paternal,Yes,Sanger sequencing,Guo2018
+155059,ANK2,22823,217-14019-390,T,G,chr4:114177051-114177051,exonic,nonsynonymous SNV,NM_001148:exon11::c.T1151G:p.L384R;NM_020977:exon11::c.T1151G:p.L384R;NM_001127493:exon12::c.T1088G:p.L363R,28.3,0,Unknown,No,null,Stessman2017
+154807,ANK2,22616,S9L7K,G,A,chr4:114251568-114251568,exonic,nonsynonymous SNV,NM_001148:exon27::c.G3067A:p.G1023R;NM_020977:exon27::c.G3067A:p.G1023R;NM_001127493:exon29::c.G3040A:p.G1014R,25.4,8.26E-06,Unknown,No,null,Stessman2017
+169413,ANK2,27391,08C74775,T,G,chr4:114177051-114177051,exonic,nonsynonymous SNV,NM_001148:exon11::c.T1151G:p.L384R;NM_020977:exon11::c.T1151G:p.L384R;NM_001127493:exon12::c.T1088G:p.L363R,28.3,0,De novo,,variant source reported as validated,Satterstrom2018
+145363,ANK2,14645,1-0234-004,A,T,chr4:114280060-114280060,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10286T:p.E3429V,14.35,0,De novo,,null,Yuen2015
+339666,ANK2,34715,M31980,G,C,chr4:114280136-114280136,exonic,nonsynonymous SNV,NM_001148:exon38::c.G10362C:p.R3454S,1.386,2.00E-04,Unknown,Yes,Sanger sequencing,Guo2018
+338911,ANK2,34886,HN0149.p1,C,T,chr4:114195696-114195696,exonic,nonsynonymous SNV,NM_001148:exon15::c.C1574T:p.A525V;NM_020977:exon15::c.C1574T:p.A525V;NM_001127493:exon16::c.C1511T:p.A504V,34,0,Maternal,Yes,Sanger sequencing,Guo2018
+339679,ANK2,35316,SX0011.p1,A,G,chr4:114279793-114279793,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10019G:p.D3340G,2.687,1.65E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339673,ANK2,35319,HEN0129.p1,C,G,chr4:114257060-114257060,exonic,nonsynonymous SNV,NM_001148:exon30::c.C3438G:p.D1146E;NM_020977:exon30::c.C3438G:p.D1146E;NM_001127493:exon32::c.C3411G:p.D1137E,20.2,3.30E-05,Maternal,Yes,Sanger sequencing,Guo2018
+175839,ANK2,29497,M26767,C,T,chr4:114177018-114177018,exonic,nonsynonymous SNV,NM_001148:exon11::c.C1118T:p.A373V;NM_020977:exon11::c.C1118T:p.A373V;NM_001127493:exon12::c.C1055T:p.A352V,37,4.12E-05,Maternal;Maternal,Yes,Sanger sequencing;null,Guo2018;Wang2016
+339674,ANK2,35320,HEN0140.p1,C,A,chr4:114267077-114267077,exonic,nonsynonymous SNV,NM_001148:exon35::c.C4270A:p.P1424T;NM_020977:exon35::c.C4270A:p.P1424T;NM_001127493:exon37::c.C4243A:p.P1415T,28.9,0,Maternal,Yes,Sanger sequencing,Guo2018
+339680,ANK2,35324,SD0010.p1,A,C,chr4:114279979-114279979,exonic,nonsynonymous SNV,NM_001148:exon38::c.A10205C:p.K3402T,4.84,1.65E-05,Maternal,Yes,Sanger sequencing,Guo2018
+339682,ANK2,35325,SX0034.p1,G,A,chr4:114294252-114294252,exonic,nonsynonymous SNV,NM_020977:exon43::c.G5362A:p.D1788N;NM_001148:exon44::c.G11617A:p.D3873N;NM_001127493:exon45::c.G5335A:p.D1779N,21.5,8.24E-06,Maternal,Yes,Sanger sequencing,Guo2018
+338925,ANK2,34895,HEN0271.p1,G,A,chr4:114214674-114214674,exonic,nonsynonymous SNV,NM_001148:exon22::c.G2455A:p.E819K;NM_020977:exon22::c.G2455A:p.E819K;NM_001127493:exon23::c.G2392A:p.E798K,35,0,Paternal,Yes,Sanger sequencing,Guo2018
+195566,ANK2,31868,Cukier2014:17545,C,A,chr4:114279674-114279674,exonic,nonsynonymous SNV,NM_001148:exon38::c.C9900A:p.S3300R,13.92,0.0188,Unknown,Yes,null,Cukier2014
+338933,ANK2,29592,M21642,C,G,chr4:114257060-114257060,exonic,nonsynonymous SNV,NM_001148:exon30::c.C3438G:p.D1146E;NM_020977:exon30::c.C3438G:p.D1146E;NM_001127493:exon32::c.C3411G:p.D1137E,20.2,3.30E-05,Maternal,Yes,Sanger sequencing,Guo2018
+338932,ANK2,29290,M08494,G,C,chr4:114213575-114213575,exonic,nonsynonymous SNV,NM_001148:exon21::c.G2281C:p.G761R;NM_020977:exon21::c.G2281C:p.G761R;NM_001127493:exon22::c.G2218C:p.G740R,27.8,0,Maternal,Yes,Sanger sequencing,Guo2018
+338935,ANK2,29595,M23778,C,T,chr4:114274407-114274407,exonic,nonsynonymous SNV,NM_001148:exon38::c.C4633T:p.P1545S,12.13,8.27E-06,Maternal,Yes,Sanger sequencing,Guo2018
+338934,ANK2,29433,M12312,T,A,chr4:114274267-114274267,exonic,nonsynonymous SNV,NM_001148:exon38::c.T4493A:p.L1498Q,17.95,0,Maternal,Yes,Sanger sequencing,Guo2018
+154612,ANK2,22441,07C68521,C,T,chr4:114278572-114278572,exonic,nonsynonymous SNV,NM_001148:exon38::c.C8798T:p.S2933F,19.45,8.25E-06,Unknown,No,null,Stessman2017
+146421,ANK2,15372,Li2017:20619,G,A,chr4:114279630-114279630,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9856A:p.E3286K,25.6,1.65E-05,Unknown,,Sanger sequencing,Li2017
+338941,ANK2,34904,M16263,G,T,chr4:114278947-114278947,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9173T:p.R3058L,20.9,0,Maternal,Yes,Sanger sequencing,Guo2018
+338940,ANK2,34903,M26740,G,A,chr4:114278943-114278943,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9169A:p.A3057T,22.2,0,Maternal,Yes,Sanger sequencing,Guo2018
+338943,ANK2,34905,M17475,G,A,chr4:114279585-114279585,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9811A:p.D3271N,8.864,0,Maternal,Yes,Sanger sequencing,Guo2018
+338942,ANK2,29310,M16114,G,A,chr4:114279456-114279456,exonic,nonsynonymous SNV,NM_001148:exon38::c.G9682A:p.V3228M,0.006,9.09E-05,Maternal,Yes,Sanger sequencing,Guo2018
+338937,ANK2,34902,M01723,C,G,chr4:114275956-114275956,exonic,nonsynonymous SNV,NM_001148:exon38::c.C6182G:p.T2061R,0.307,0,Maternal,Yes,Sanger sequencing,Guo2018
+338936,ANK2,34901,M17514,G,A,chr4:114275283-114275283,exonic,nonsynonymous SNV,NM_001148:exon38::c.G5509A:p.A1837T,1.279,2.00E-04,Maternal,Yes,Sanger sequencing,Guo2018
+338939,ANK2,29570,M10099,A,C,chr4:114277529-114277529,exonic,nonsynonymous SNV,NM_001148:exon38::c.A7755C:p.E2585D,18.5,0,Maternal,Yes,Sanger sequencing,Guo2018
+338938,ANK2,29315,M18488,A,C,chr4:114277277-114277277,exonic,nonsynonymous SNV,NM_001148:exon38::c.A7503C:p.E2501D,14.91,1.65E-05,Maternal,Yes,Sanger sequencing,Guo2018
+346173,ANK2,36293,SP0020903,C,T,chr4:114254351-114254351,exonic,synonymous SNV,NM_001148:exon29::c.C3366T:p.N1122N;NM_020977:exon29::c.C3366T:p.N1122N;NM_001127493:exon31::c.C3339T:p.N1113N,0.018,0.0014,De novo,,null,Feliciano2019
+171893,ANK2,28510,236-15-DR,G,A,chr4:114267127-114267127,exonic,synonymous SNV,NM_001148:exon35::c.G4320A:p.L1440L;NM_020977:exon35::c.G4320A:p.L1440L;NM_001127493:exon37::c.G4293A:p.L1431L,9.914,0,De novo,,variant source reported as validated,Satterstrom2018
