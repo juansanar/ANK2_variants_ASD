@@ -23,4 +23,3 @@ X	X	any codon	NNN
 Y	Tyr	Tyrosine	TAC, TAT
 Z	Glx	Glutamine or Glutamic acid	CAA, CAG, GAA, GAG
 *	*	stop codon	TAA, TAG, TGA
- 	 	 	 
