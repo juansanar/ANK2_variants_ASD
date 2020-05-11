@@ -37,4 +37,4 @@ for (i in 1:length(aa_code$Three.letter.code))
 
 ank2_sfari$RESIDUE.CHANGE[68] <- "p.S2933fs"
 
-ank2_sfari %>% filter(VARIANT.TYPE != "synonymous_variant", VARIANT.TYPE != "splice_site_variant", RESIDUE.CHANGE != "-") %>% View()
+ank2_sfari_filtered <- ank2_sfari %>% filter(VARIANT.TYPE != "synonymous_variant", VARIANT.TYPE != "splice_site_variant", RESIDUE.CHANGE != "-")
