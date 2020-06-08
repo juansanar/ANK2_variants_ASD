@@ -1,7 +1,7 @@
 library(readr)
 library(tidyverse)
-
 setwd("~/GitHub/ANK2_variants_ASD")
+
 ank2_varicarta <- read_delim("ank2_varicarta.txt", "\t", escape_double = FALSE, trim_ws = TRUE)
 
 ank2_varicarta %>% mutate(HGVS_split = str_split(HGVS, pattern = ";")) %>% View()
@@ -38,3 +38,5 @@ for (i in 1:length(aa_code$Three.letter.code))
 ank2_sfari$RESIDUE.CHANGE[68] <- "p.S2933fs"
 
 ank2_sfari_filtered <- ank2_sfari %>% filter(VARIANT.TYPE != "synonymous_variant", VARIANT.TYPE != "splice_site_variant", RESIDUE.CHANGE != "-")
+
+write_csv(ank2_sfari_filtered, "ank2_variants_filtered.csv")
